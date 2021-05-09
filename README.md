@@ -1,1 +1,1 @@
-# python_practice
+# python_practice, using "Python Crash Course - A Hands-on project-based introduction to programming" by Eric Matthes. Plus probably just some files i'm messing around with as I try out VScode to see if I like it better than Sublime text (which is awesome, but i'm not spening 80 bucks for a license, already paying out-of-pocket for the A+ CompTIA exam)
